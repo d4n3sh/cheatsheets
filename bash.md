@@ -1,0 +1,5 @@
+#### Run last command
+```
+$ !!
+$ sudo !!
+```
