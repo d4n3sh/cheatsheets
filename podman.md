@@ -2,4 +2,4 @@
 
 | Command | Description |
 | ---     | ---         |
-| `podman ps` | List running pods. |
+| `podman ps` | List running pods |
